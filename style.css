@@ -1,0 +1,32 @@
+.jumbotron {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+li {
+    font-size: 20px;
+    list-style: none;
+}
+#container1 {
+    margin-top: 20px;
+}
+
+.card {
+    margin-right: 10px;
+}
+.logo {
+    border-style:solid;
+    background-color: #343A40;
+    border-width: 3px;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: violet;
+}
+.infoText {
+    font-size: 20px;
+}
+.info {
+    font-size: 24px;
+}
